@@ -2,4 +2,6 @@ Ini adalah catatan untuk menyimpan history commit
 
 - Commit Ke - 1 di Github
 - Commit Ke - 2 di Branch Fitur-1
-- Commit Ke - 3 di Branch Fitur-3
+- Commit Ke - 3 di Branch Fitur-2
+- Commit Ke - 4 di Branch Fitur-3
+
