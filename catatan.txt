@@ -5,4 +5,5 @@ Ini adalah catatan untuk menyimpan history commit
 - Commit Ke - 3 di Branch Fitur-2
 - Commit Ke - 4 di Branch Fitur-3
 - Commit Ke - 5 untuk mencoba fetch dan pull
+- Commit ke - 6 untuk mencoba push ke GitHub
 
