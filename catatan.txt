@@ -1,0 +1,3 @@
+Ini adalah catatan untuk menyimpan history commit 
+
+- Commit Ke - 1 di Github
